@@ -55,3 +55,11 @@ yarn docz dev
 ```
 
 成功。
+
+## 发布
+
+记录发布命令备忘。
+
+```sh
+yarn publish --registry https://registry.npmjs.org
+```
