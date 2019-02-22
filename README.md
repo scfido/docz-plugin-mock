@@ -1,6 +1,6 @@
 # docz-plugin-mock
 
-Docz的mock插件，调试组件时提供服务端模拟数据。
+[Docz](https://github.com/pedronauck/docz)的mock插件，调试组件时提供服务端模拟数据。
 
 ## 如何使用
 
@@ -63,3 +63,7 @@ yarn docz dev
 ```sh
 yarn publish --registry https://registry.npmjs.org
 ```
+
+## 参考
+
+Mock数据设置方法:<https://umijs.org/guide/mock-data.html>
